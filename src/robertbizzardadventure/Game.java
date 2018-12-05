@@ -19,7 +19,7 @@ public class Game implements Serializable {
     private final HashMap<String, Exit> EXITS_GAME;
     private final HashMap<String, Item> ITEMS_GAME;
     private final HashMap<String, Place> WORLD_MAP;
-    public final Character HERO;
+    private final Character HERO;
 
     public Game() {
         
