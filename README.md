@@ -13,3 +13,13 @@ On se déplace à l'aide de la commande GO suivie du nom du passage que vous vou
 
 ### Combat
 Récuperez des armes et des équipements, gonflez vos stats, et allez défier votre rival dans un combat haletant, si vous l'osez et surtout si vous le trouvez !
+
+##Installation
+### Utilisation de l'executable
+ * Récupérez le fichier .jar.
+ * Avec une console, se déplacer dans le répertoire contenant le fichier .jar.
+ * java -jar RobertBizzardAdventure.jar pour lancer le jeu
+
+### Utiliser les .java
+ * Récuperez le répertoire src
+ * Recompilez à la main ou à l'aide d'un IDE l'ensemble des fichiers .java contenues dans les différents packages.
